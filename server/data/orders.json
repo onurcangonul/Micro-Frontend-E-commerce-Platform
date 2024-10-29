@@ -1,0 +1,92 @@
+[
+  {
+    "orderId": "66271cda-eb59-4480-9e4e-2038f163a394",
+    "userId": "f8974c76-cb52-47fb-adc4-57391442b3a9",
+    "items": [
+      {
+        "name": "Bedside Table African Cherry",
+        "price": 299.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+        "quantity": 1
+      }
+    ],
+    "total": 304.98,
+    "date": "2024-10-29T17:07:07.144Z"
+  },
+  {
+    "orderId": "7556f4b9-1c49-46e3-a2ee-57ebb7b69700",
+    "userId": "f8974c76-cb52-47fb-adc4-57391442b3a9",
+    "items": [
+      {
+        "name": "Bedside Table African Cherry",
+        "price": 299.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+        "quantity": 1
+      },
+      {
+        "name": "Chicken Meat",
+        "price": 9.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png",
+        "quantity": 1
+      }
+    ],
+    "total": 314.97,
+    "date": "2024-10-29T17:09:48.738Z"
+  },
+  {
+    "orderId": "d9013a8a-98c3-4228-bf00-0c0407b5dfca",
+    "userId": "f8974c76-cb52-47fb-adc4-57391442b3a9",
+    "items": [
+      {
+        "name": "Bedside Table African Cherry",
+        "price": 299.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+        "quantity": 1
+      }
+    ],
+    "total": 304.98,
+    "date": "2024-10-29T17:10:31.112Z"
+  },
+  {
+    "orderId": "32a4ed17-1431-43a9-aaa3-90536b23722c",
+    "userId": "f8974c76-cb52-47fb-adc4-57391442b3a9",
+    "items": [
+      {
+        "name": "Bedside Table African Cherry",
+        "price": 299.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+        "quantity": 1
+      }
+    ],
+    "total": 304.98,
+    "date": "2024-10-29T17:20:11.053Z"
+  },
+  {
+    "orderId": "95b799bb-7831-4ef5-9650-66a178f7f232",
+    "userId": "952c7fd7-d9de-41cb-ad96-f0d328b0eeee",
+    "items": [
+      {
+        "name": "Bedside Table African Cherry",
+        "price": 299.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+        "quantity": 1
+      }
+    ],
+    "total": 304.98,
+    "date": "2024-10-29T17:41:17.840Z"
+  },
+  {
+    "orderId": "316cd21d-4f52-4a13-ab96-b51af45ebc4e",
+    "userId": "952c7fd7-d9de-41cb-ad96-f0d328b0eeee",
+    "items": [
+      {
+        "name": "Essence Mascara Lash Princess",
+        "price": 9.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+        "quantity": 1
+      }
+    ],
+    "total": 14.98,
+    "date": "2024-10-29T17:48:45.511Z"
+  }
+]

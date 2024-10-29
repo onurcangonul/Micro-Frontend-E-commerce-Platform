@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* Scroll */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 10px;
+}
+ 
+::-webkit-scrollbar-track {
+    background-color: #FAF0F4;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    visibility: hidden;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #017CC2; 
+    visibility: hidden;
+
+}
